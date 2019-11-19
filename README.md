@@ -9,4 +9,4 @@ We focused on following set of requirements while creating this application.
 5.	The application should display updated image of burger with corresponding ingredients.
 6.	The cost of burger will update automatically as ingredients are added/removed.
 
-U can user the application @ https://burger-builderapp.herokuapp.com/
+U can view the application @ https://burger-builderapp.herokuapp.com/
